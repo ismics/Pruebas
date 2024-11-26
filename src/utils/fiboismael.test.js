@@ -8,7 +8,7 @@ describe("Funcion fiboismael", () => {
     });
 
     it("Fibonacci de 12 es 144", () => {
-        expect(fiboismael(12)).toBe(145);
+        expect(fiboismael(12)).toBe(144);
     });
 
     it("Fibonacci de 33 es 3524578", () => {
